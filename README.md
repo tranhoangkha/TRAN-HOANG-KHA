@@ -29,6 +29,6 @@
 
 ## 🔗 Connect with me
 <p align="center">
-  <a href="https://www.facebook.com/tranhoangkha.14012001" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white" /></a>
+  
   <a href="mailto:khahoang1401@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" /></a>
 </p>
