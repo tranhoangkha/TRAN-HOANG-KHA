@@ -8,9 +8,9 @@
 
 ## ⚡ About me
 - 💻 2 năm kinh nghiệm phát triển ứng dụng với C#, .NET, SQL  
-- 📊 Quan tâm tới Data: thiết kế CSDL, tối ưu query, báo cáo phân tích  
+- 📊 Data: thiết kế CSDL, tối ưu query, báo cáo phân tích  
 - 🌏 Sử dụng tốt **English**  
-- 🤝 Thích chia sẻ kiến thức & làm việc nhóm  
+- 🤝 Thích chia sẻ kiến thức  
 - ☕ Đam mê thể thao 
 
 ---
@@ -29,6 +29,5 @@
 
 ## 🔗 Connect with me
 <p align="center">
-  
   <a href="mailto:khahoang1401@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" /></a>
 </p>
